@@ -42,4 +42,6 @@ You can run the . notebook using jupyter lab or jupyter notebook.
 
 ### Chromagram
 
+What are chroma features? https://en.wikipedia.org/wiki/Chroma_feature
+
 ![Waveform](/Users/cnnrrss/Projects/pers/sound-experiments/assets/chromagram.png)
