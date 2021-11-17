@@ -23,8 +23,23 @@ pip install -r requirements.txt
 
 ### Using Jupyter
 
-You can run the example notebook using jupyter lab or jupyter notebook.
+You can run the . notebook using jupyter lab or jupyter notebook.
 
 **Start jupyter**:
 
 `jupyter-lab`
+
+
+## Demo Features
+
+### Visualize audio waveform
+
+![Waveform](/Users/cnnrrss/Projects/pers/sound-experiments/assets/waveplot.png)
+
+### Spectrogram
+
+![Waveform](/Users/cnnrrss/Projects/pers/sound-experiments/assets/spectrogram.png)
+
+### Chromagram
+
+![Waveform](/Users/cnnrrss/Projects/pers/sound-experiments/assets/chromagram.png)
